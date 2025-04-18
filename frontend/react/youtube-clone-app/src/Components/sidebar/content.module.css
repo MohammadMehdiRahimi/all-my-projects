@@ -1,0 +1,42 @@
+.container {
+  width: 85%;
+  max-width: 204px;
+  max-height: 40px;
+  display: flex;
+  justify-content: flex-start;
+  column-gap: 15%;
+  padding: 10px 25px;
+  align-items: center;
+  color: var(--bodyItemColor);
+  border-radius: 10px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.5s ease;
+  font-size: 14px;
+  margin-block: 5px;
+}
+.active {
+  background-color: var(--sideBarItemBg);
+}
+.container:hover {
+  background-color: var(--sideBarItemBg);
+}
+.container img {
+  width: 25px;
+  filter: brightness(var(--item));
+}
+.container span svg {
+  width: 30px;
+  height: auto;
+}
+.container span svg path {
+  fill: var(--bodyItemColor);
+}
+h3{
+
+  /* margin-left: 20%;  */
+width: 230px;
+  background-color: red !important;
+  font-size: 26px !important;
+
+}

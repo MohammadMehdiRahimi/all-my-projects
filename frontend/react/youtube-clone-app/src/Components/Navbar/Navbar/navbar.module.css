@@ -1,0 +1,186 @@
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 5px 25px;
+  /* column-gap: 10px; */
+  position: fixed;
+  z-index: 999;
+}
+.search {
+  position: relative;
+  max-width: 800px;
+  width: 100%;
+  flex: 1;
+}
+
+/* ------------------------------- logoSection ------------------------------ */
+.logo {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  column-gap: 5px;
+  max-width: 200px;
+  width: 100%;
+  flex: 1;
+  transition: all 0.2s ease;
+}
+.logo img:nth-child(1) {
+  max-width: 30px;
+  width: 100%;
+  transition: all 0.2s ease;
+}
+
+.logo img:nth-child(2) {
+  max-width: 150px;
+  width: 100%;
+  transition: all 0.2s ease;
+}
+
+/* ------------------------------- search box ------------------------------- */
+.searchBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  column-gap: 20px;
+  max-width: 900px;
+  transition: all 0.2s ease;
+}
+.searchBoxCollapse {
+  display: none;
+}
+.input {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--inputbgColor);
+  border-radius: 25px;
+  width: 100%;
+  column-gap: 5px;
+  height: 40px;
+  border: 1px solid var(--inputbgColor);
+  transition: all 0.2s ease;
+}
+.input input {
+  background-color: var(--bodyBgColor);
+  border: none;
+  outline: none;
+  width: 100%;
+  height: 38px;
+  border-radius: 25px 0px 0px 25px;
+  padding: 5px 15px;
+  color: var(--bodyItemColor);
+}
+
+.input img {
+  width: 40px;
+  padding: 0px 10px;
+  margin-right: 10px;
+}
+.mic {
+  width: 40px;
+  height: 40px;
+  background-color: var(--inputbgColor);
+  padding: 5px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.2s ease;
+}
+.mic img {
+  width: 15px;
+}
+/* --------------------------- collapse SearchBox --------------------------- */
+.searchBoxCollapse {
+  width: 100%;
+  position: relative;
+}
+.showSearchBox {
+  width: 40px;
+  background-color: var(--inputbgColor);
+  padding: 10px;
+  border-radius: 50%;
+  margin-left: 15px;
+  z-index: 999;
+}
+
+.searchBoxCollapse .input {
+  position: absolute;
+  width: 0px;
+  height: 0;
+overflow: hidden;
+  transition: all 0.5s ease;
+
+  background-color: var(--inputbgColor);
+}
+.micCollapse {
+  width: 35px !important;
+  margin-left: -15px;
+}
+/* ------------------------------ notifSection ------------------------------ */
+.notif {
+  max-width: 200px;
+  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  flex: 1;
+
+  transition: all 0.2s ease;
+}
+.notif img {
+  width: 100%;
+  max-width: 40px;
+  transition: all 0.2s ease;
+}
+.notif img[alt="userProfile"] {
+  border-radius: 50%;
+}
+
+.notif button {
+  background-color: transparent;
+  padding: 5px 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.notif button svg path {
+  fill: var(--bodyItemColor);
+}
+.notif button svg {
+  height: 30px;
+  width: auto;
+  transition: all 0.2s ease;
+}
+/* -------------------------------- mediquery ------------------------------- */
+
+@media screen and (max-width: 790px) {
+  .logo img:nth-child(2) {
+    max-width: 100px;
+    width: 100%;
+  }
+  .notif img {
+    max-width: 20px;
+  }
+  .notif button svg {
+    height: 20px;
+  }
+  .container {
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 640px) {
+  .searchBoxNormal {
+    display: none;
+  }
+  .searchBoxCollapse {
+    display: flex;
+  }
+}

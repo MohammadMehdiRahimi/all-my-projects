@@ -1,0 +1,62 @@
+.container {
+  position: fixed;
+  top: 70px;
+  width: 240px;
+  height: 100vh;
+  background-color: var(--bodyBgColor);
+  overflow-y: scroll;
+}
+.container::-webkit-scrollbar {
+  width: 0;
+}
+.container:hover::-webkit-scrollbar {
+  width: 10px;
+}
+.container::-webkit-scrollbar-thumb {
+  background: var(--sideBarItemBg); /* رنگ برای دستگیره اسکرول‌بار */
+  border-radius: 30px;
+}
+.section {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  align-items: center;
+  width: 230px;
+  padding: 5px 3px 20px 5px;
+  border-bottom: 1px solid var(--sideBarItemBg);
+}
+.profileSection {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  align-items: center;
+  width: 230px;
+  padding: 5px 3px 20px 5px;
+  border-bottom: 1px solid var(--sideBarItemBg);
+}
+.topic {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  column-gap: 10px;
+  max-width: 230px;
+width: 80%;
+  padding: 5px 20px;
+  font-size: 18px;
+  color: var(--bodyItemColor);
+  cursor: pointer;
+  border-radius: 10px;
+  transition: background-color 0.2s ease;
+  font-weight: 500;
+}
+.topic:hover{
+  background-color: var(--sideBarItemBg);
+}
+.topic span svg path {
+  fill: var(--bodyItemColor);
+}
+.topic span svg{
+  vertical-align: -10px;
+  width: 30px;
+  height: auto;
+}

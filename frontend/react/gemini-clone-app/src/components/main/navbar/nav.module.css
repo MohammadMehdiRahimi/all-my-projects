@@ -1,0 +1,45 @@
+.nav {
+  width: 100%;
+  max-width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 25px;
+  color: var(--itemColor);
+}
+.nav img {
+  border-radius: 50%;
+  width: 45px;
+}
+.nav h1 {
+  flex: 10;
+}
+.user {
+  display: flex;
+  justify-content: space-between;
+  flex: 1;
+}
+.user button {
+  background: transparent;
+  outline: none;
+  border: none;
+}
+.user button svg {
+  cursor: pointer;
+  min-height: 26px;
+  width: auto;
+}
+.user button svg path {
+  fill: var(--itemColor) !important;
+  stroke: var(--itemColor) !important;
+}
+@media (min-width:1080px) {
+  .nav{
+    width: 95%;
+  } 
+}
+@media (max-width:1080px) {
+  .nav{
+    width: 90%;
+  } 
+}

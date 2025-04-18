@@ -25,9 +25,8 @@ This project features a beautiful UI, responsive design, and input validation.
 Follow these steps to run the project locally:
 
 ```bash
-# Clone the repository (replace with your URL)
-git clone [https://github.com/YOUR_USERNAME/login-form.git](https://github.com/YOUR_USERNAME/login-form.git)
-
+# Clone the repository 
+git clone https://github.com/MohammadMehdiRahimi/imgloginform
 # Navigate into the project directory
 cd login-form
 

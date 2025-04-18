@@ -14,23 +14,33 @@ This monorepo contains the following projects:
 ####  Fullstack Projects
 
 - 📱 **[Divar-clone]**   
-  🔗 [View Repository](../divar.github.io)
+  🔗 [View Repository](https://github.com/MohammadMehdiRahimi/divar.github.io)
 
-- 🧠 **[Project Name]** — *An AI-powered tool using NLP and machine learning*  
-  🔗 [View Repository](./project-folder)
+- 🧠 **[Simple-blog]**   
+  🔗 [View Repository](https://github.com/MohammadMehdiRahimi/gemini_clone.git)
 
-- 🌐 **[Project Name]** — *A complete full-stack web application using MERN/Next.js/etc.*  
-  🔗 [View Repository](./project-folder)
+### Frontend Projects
+- 🌐 **[Gemini-clone]** 
+  🔗 [View Repository](https://github.com/MohammadMehdiRahimi/gemini_clone.git)
 
-### 🛠️ Side Projects & Experiments
+- 🌐 **[Youtube-clone]** 
+  🔗 [View Repository](https://github.com/MohammadMehdiRahimi/youtubeClone.git)
 
-- ⚙️ **[Project Name]** — *Algorithm visualizer / coding challenge*  
-  🔗 [View Repository](./project-folder)
+- 🌐 **[Login-form]** 
+  🔗 [View Repository](https://github.com/MohammadMehdiRahimi/imgloginform)
 
-- 🎨 **[Project Name]** — *Frontend UI playground with Tailwind CSS and React*  
-  🔗 [View Repository](./project-folder)
+  - 🌐 **[Shopping-cart]** 
+  🔗 [View Repository](https://github.com/MohammadMehdiRahimi/shopping)
 
----
+
+
+### Backend Projects
+
+
+### Scripts 
+
+- ⚙️ **[Whatsapp-bot-authomation]** 
+  🔗 [View Repository](https://github.com/yourusername/whatsapp-bot.git)
 
 ## 📚 How to Navigate
 
@@ -38,9 +48,7 @@ Each folder includes:
 
 - A `README.md` file with project-specific information
 - Installation & setup instructions
-- Screenshots, features, and technology stack
 - Notes on future improvements or open issues
-
 ---
 
 ## 🧭 Purpose of This Repo
@@ -55,10 +63,9 @@ Each folder includes:
 
 If you'd like to reach out, collaborate, or just say hi:
 
-- 📧 Email: your.email@example.com  
-- 🌐 Website/Portfolio: [your-website.com](https://your-website.com)  
-- 🐙 GitHub: [@your-username](https://github.com/your-username)  
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- 📧 Email: poryarahimi@gmail.com || rahimi.se7@gmail.com
+- 🐙 GitHub: [@mohammadmehdirahimi](https://github.com/mohammadmehdirahimi)  
+- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/mohammad-mehdi-rahimi-5b42652a4)
 
 ---
 

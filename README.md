@@ -17,7 +17,7 @@ This monorepo contains the following projects:
   🔗 [View Repository](https://github.com/MohammadMehdiRahimi/divar.github.io)
 
 - 🧠 **[Simple-blog]**   
-  🔗 [View Repository](https://github.com/MohammadMehdiRahimi/gemini_clone.git)
+  🔗 [View Repository](https://github.com/MohammadMehdiRahimi/simpleBolg.git)
 
 ### Frontend Projects
 - 🌐 **[Gemini-clone]** 

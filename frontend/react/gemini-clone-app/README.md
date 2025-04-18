@@ -40,6 +40,7 @@ npm run dev
 ## Folder Structure
 
 gemini_clone/
+
 ├── public/
 │   └── index.html
 ├── src/
@@ -51,6 +52,7 @@ gemini_clone/
 │   └── main.jsx (if using Vite)
 ├── package.json
 └── README.md
+
 
 ## 🤝 Contributing
 

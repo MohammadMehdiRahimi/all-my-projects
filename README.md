@@ -65,7 +65,7 @@ If you'd like to reach out, collaborate, or just say hi:
 
 - 📧 Email: poryarahimi@gmail.com || rahimi.se7@gmail.com
 - 🐙 GitHub: [@mohammadmehdirahimi](https://github.com/mohammadmehdirahimi)  
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/mohammad-mehdi-rahimi-5b42652a4)
+- 💼 LinkedIn: [my-linkedin](https://linkedin.com/in/mohammad-mehdi-rahimi-5b42652a4)
 
 ---
 

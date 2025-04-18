@@ -62,7 +62,7 @@ login-form/
 ├── package-lock.json   
 └── README.md            (This file)
 ```
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome!
 If you have any idea, feedback, or improvement in mind, feel free to:
 
@@ -71,10 +71,10 @@ Create a new branch (git checkout -b feature/your-feature)
 Commit your changes (git commit -m 'Add your message')
 Push to the branch (git push origin feature/your-feature)
 Open a Pull Request
-🌟 A Note from the Developer
+## 🌟 A Note from the Developer
 Built with 💚 by Mohammad Mehdi Rahimi
 If you like this project, feel free to ⭐ the repository and follow me on GitHub.
 
-✨ Final Words
+## ✨ Final Words
 "The best way to learn is to build."
 This project is a testament to continuous growth, consistency, and the beauty of clean UI.

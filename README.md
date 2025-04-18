@@ -11,35 +11,33 @@ This monorepo contains the following projects:
 
 ### 🚀 Featured Projects
 
-####  Fullstack Projects
+#### Fullstack Projects
 
-- 📱 **[Divar-clone]**   
+- 📱 **[Divar-clone]**  
   🔗 [View Repository](https://github.com/MohammadMehdiRahimi/divar.github.io)
 
-- 🧠 **[Simple-blog]**   
-  🔗 [View Repository](https://github.com/MohammadMehdiRahimi/gemini_clone.git)
+- 🧠 **[Simple-blog]**  
+  🔗 [View Repository](https://github.com/MohammadMehdiRahimi/simpleBolg.git)
 
 ### Frontend Projects
-- 🌐 **[Gemini-clone]** 
+
+- 🌐 **[Gemini-clone]**
   🔗 [View Repository](https://github.com/MohammadMehdiRahimi/gemini_clone.git)
 
-- 🌐 **[Youtube-clone]** 
+- 🌐 **[Youtube-clone]**
   🔗 [View Repository](https://github.com/MohammadMehdiRahimi/youtubeClone.git)
 
-- 🌐 **[Login-form]** 
+- 🌐 **[Login-form]**
   🔗 [View Repository](https://github.com/MohammadMehdiRahimi/imgloginform)
 
-  - 🌐 **[Shopping-cart]** 
-  🔗 [View Repository](https://github.com/MohammadMehdiRahimi/shopping)
-
-
+  - 🌐 **[Shopping-cart]**
+    🔗 [View Repository](https://github.com/MohammadMehdiRahimi/shopping)
 
 ### Backend Projects
 
+### Scripts
 
-### Scripts 
-
-- ⚙️ **[Whatsapp-bot-authomation]** 
+- ⚙️ **[Whatsapp-bot-authomation]**
   🔗 [View Repository](https://github.com/yourusername/whatsapp-bot.git)
 
 ## 📚 How to Navigate
@@ -49,6 +47,7 @@ Each folder includes:
 - A `README.md` file with project-specific information
 - Installation & setup instructions
 - Notes on future improvements or open issues
+
 ---
 
 ## 🧭 Purpose of This Repo
@@ -64,7 +63,7 @@ Each folder includes:
 If you'd like to reach out, collaborate, or just say hi:
 
 - 📧 Email: poryarahimi@gmail.com || rahimi.se7@gmail.com
-- 🐙 GitHub: [@mohammadmehdirahimi](https://github.com/mohammadmehdirahimi)  
+- 🐙 GitHub: [@mohammadmehdirahimi](https://github.com/mohammadmehdirahimi)
 - 💼 LinkedIn: [my-linkedin](https://linkedin.com/in/mohammad-mehdi-rahimi-5b42652a4)
 
 ---

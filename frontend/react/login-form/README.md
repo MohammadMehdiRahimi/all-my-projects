@@ -64,12 +64,13 @@ login-form/
 ## 🤝 Contributing
 Contributions are welcome!
 If you have any idea, feedback, or improvement in mind, feel free to:
-
+``` bash
 Fork the project
 Create a new branch (git checkout -b feature/your-feature)
 Commit your changes (git commit -m 'Add your message')
 Push to the branch (git push origin feature/your-feature)
 Open a Pull Request
+```
 ## 🌟 A Note from the Developer
 Built with 💚 by Mohammad Mehdi Rahimi
 If you like this project, feel free to ⭐ the repository and follow me on GitHub.

@@ -1,6 +1,8 @@
 {
   "name": "shop",
   "version": "0.1.0",
+  "author": "MohammadMehdiRahimi",
+  "description": "github address : https://github.com/mohammadmehdirahimi",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

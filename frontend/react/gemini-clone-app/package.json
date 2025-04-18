@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "author": "MohammadMehdiRahimi",
-  "github_url": "https://github.com/mohammadmehdirahimi",
+  "description": "github address : https://github.com/mohammadmehdirahimi",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

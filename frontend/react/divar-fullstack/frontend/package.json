@@ -3,6 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author": "MohammadMehdiRahimi",
+  "description": "github address : https://github.com/mohammadmehdirahimi",
   "scripts": {
     "start": "npm run dev",
     "dev": "vite",

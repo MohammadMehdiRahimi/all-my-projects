@@ -56,7 +56,7 @@ Follow these steps to run the project locally:
 
 ````bash
 # 1. Clone the repository (replace with your actual repo URL)
-git clone https://github.com/your-username/simpleBlog.git
+git clone https://github.com/MohammadMehdiRahimi/simpleBolg
 cd simpleBlog/backend
 
 # 2. Install dependencies

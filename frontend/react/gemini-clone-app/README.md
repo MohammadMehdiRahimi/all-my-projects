@@ -54,6 +54,8 @@ gemini_clone/
 
 
 ### 🤝 Contributing
+
+
 Contributions are welcome!
 If you have any idea, feedback, or improvement in mind, feel free to:
 
@@ -68,9 +70,13 @@ Push to the branch (git push origin feature/your-feature)
 Open a Pull Request
 
 ### 📄 License
+
+
 This project is open-source and available under the MIT License.
 
 ## 🌟 A Note from the Developer
+
+
 Built with 💚 by Mohammad Mehdi Rahimi
 If you like this project, feel free to ⭐️ the repository and follow me on GitHub
 
